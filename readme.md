@@ -9,7 +9,7 @@ For example the value corresponding to the ToggleSneak in the inventory will be 
 
 ### Installation
 
-We invite you to search the installation or configuration information directly on the original repository
+We invite you to search the installation or configuration information directly on the original repository.
 
 ### Mod Names and Fields that can be disabled
 
