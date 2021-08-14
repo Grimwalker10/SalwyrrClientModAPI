@@ -17,12 +17,12 @@ Values will be added as we add mods compatible with this API.
 
 + Backview (disable/force)
     + preview (disable/force)
++ Fullbright (disable/force)
++ Reach Display (disable)
++ Replay (disable)
++ TimeChanger (disable)
++ Timers (disable/force)
++ TNT Time (disable/force)
 + ToggleSneak (disable)
 + ToggleSprint (disable/force)
-+ TNT Time (disable/force)
-+ TimeChanger (disable)
-+ Replay (disable)
-+ Reach Display (disable)
-+ Fullbright (disable/force)
-+ Timers (disable/force)
 
