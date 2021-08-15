@@ -16,7 +16,6 @@ We invite you to search the installation or configuration information directly o
 Values will be added as we add mods compatible with this API.
 
 + Backview (disable/force)
-    + preview (disable/force)
 + Fullbright (disable/force)
 + Reach Display (disable)
 + Replay (disable)
