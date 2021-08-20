@@ -16,8 +16,8 @@ We invite you to search the installation or configuration information directly o
 Values will be added as we add mods compatible with this API.
 
 + Backview (disable/force)
-+ Perspective (disable/force)
 + Fullbright (disable/force)
++ Perspective (disable/force)
 + Reach Display (disable)
 + Replay (disable)
 + TimeChanger (disable)
